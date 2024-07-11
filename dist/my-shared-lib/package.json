@@ -1,0 +1,7 @@
+{
+  "name": "my-shared-lib",
+  "version": "0.0.1",
+  "module": "./index.esm.js",
+  "type": "module",
+  "main": "./index.esm.js"
+}
